@@ -35,9 +35,19 @@
     <td>Mac Book Pro</td>
     <td>-</td>
   </tr>
+    <tr>
+    <td>Device 3</td>
+    <td>Kali Linux</td>
+    <td>Virtual Machine</td>
+  </tr>
   <tr>
-    <td>Redmi K20 Pro ***</td>
+    <td>Redmi K20 Pro</td>
     <td>Android 11, MiUi</td>
     <td>Snapdragoan 855</td>
+  </tr>
+    <tr>
+    <td>iPhone 11 Pro</td>
+    <td>iOS 17</td>
+    <td>SA13 Bionic</td>
   </tr>
 </table>
