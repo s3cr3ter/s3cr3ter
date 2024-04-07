@@ -16,3 +16,28 @@
 - Trying to get good marks in exams.
 - Working on some private projects.
 <hr />
+
+
+### `~# ./sysinfo`
+<table border="1">
+  <tr>
+    <th>Device</th>
+    <th>Operating System</th>
+    <th>Processor</th>
+  </tr>
+  <tr>
+    <td>Device 1</td>
+    <td>Windows 11 Pro</td>
+    <td>Intel Core i9 14900K </td>
+  </tr>
+  <tr>
+    <td>Device 2</td>
+    <td>Mac Book Pro</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Redmi K20 Pro ***</td>
+    <td>Android 11, MiUi</td>
+    <td>Snapdragoan 855</td>
+  </tr>
+</table>
